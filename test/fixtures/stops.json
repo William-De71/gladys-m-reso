@@ -1,0 +1,373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SEM:HVF",
+        "code": "SEM:GENHVF",
+        "city": "Fontaine",
+        "name": "Fontaine Hôtel de Ville – La Source",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.68739, 45.19152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SEM:SEH",
+        "code": "SEM:GENSEH",
+        "city": "Seyssinet-Pariset",
+        "name": "Seyssinet-Pariset Hôtel de Ville",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.69636, 45.18036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SEM:SHV3",
+        "code": "SEM:GENSHV3",
+        "city": "Seyssinet-Pariset",
+        "name": "Bouchayer – Hôtel de Ville",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.6945, 45.18123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SEM:GHV",
+        "code": "SEM:GENGHV",
+        "city": "Grenoble",
+        "name": "Grenoble Hôtel de Ville",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.7377, 45.18762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SEM:VH",
+        "code": "SEM:GENVH",
+        "city": "Grenoble",
+        "name": "Victor Hugo",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.72478, 45.18975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SEM:CHV",
+        "code": "SEM:GENCHV",
+        "city": "Grenoble",
+        "name": "Chavant",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.73199, 45.18522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SEM:PIQ",
+        "code": "SEM:GENPIQ",
+        "city": "Saint-Martin-le-Vinoux",
+        "name": "Saint-Martin-le-Vinoux Hôtel de Ville",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.70668, 45.20802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SEM:LP",
+        "code": "SEM:GENLP",
+        "city": "Fontaine",
+        "name": "La Poya",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.67235, 45.1971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SEM:GAR",
+        "code": "SEM:GENGAR",
+        "city": "Grenoble",
+        "name": "Gares",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.71515, 45.19083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SE2:GAR",
+        "code": "SE2:GAR",
+        "city": "Grenoble",
+        "name": "Gares",
+        "visible": false,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.71515, 45.19083]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SE2:GHV",
+        "code": "SE2:GHV",
+        "city": "Grenoble",
+        "name": "Grenoble Hôtel de Ville",
+        "visible": false,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.7377, 45.18762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SE2:VH",
+        "code": "SE2:VH",
+        "city": "Grenoble",
+        "name": "Victor Hugo",
+        "visible": false,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.72472, 45.18937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SE2:CHV",
+        "code": "SE2:CHV",
+        "city": "Grenoble",
+        "name": "Chavant",
+        "visible": false,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.73198, 45.18455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "C38:1100182",
+        "code": "C38:1100182",
+        "city": "Grenoble",
+        "name": "Victor Hugo",
+        "visible": false,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.72444, 45.18996]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "C38:1100188",
+        "code": "C38:1100188",
+        "city": "Grenoble",
+        "name": "Chavant",
+        "visible": false,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.73123, 45.18544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "C38:1103610",
+        "code": "C38:1103610",
+        "city": "Seyssinet-Pariset",
+        "name": "Bouchayer-Hôtel de Ville",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.69449, 45.18122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "C38:1100281",
+        "code": "C38:1100281",
+        "city": "Grenoble",
+        "name": "Hôtel de Ville",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.73746, 45.1875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "C38:1100185",
+        "code": "C38:1100185",
+        "city": "Grenoble",
+        "name": "Gares",
+        "visible": false,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.71519, 45.19151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "C38:1100211",
+        "code": "C38:1100211",
+        "city": "Fontaine",
+        "name": "La Poya",
+        "visible": false,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.67241, 45.19714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "SNC:OCE87697466",
+        "code": "SNC:OCE87697466",
+        "city": "Grenoble",
+        "name": "Grenoble-Eugène-Chavant",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.72475, 45.17284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "GSV:S5068",
+        "code": "GSV:S5068",
+        "city": "Grenoble",
+        "name": "Grenoble Hôtel de Ville",
+        "visible": false,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.73764, 45.18764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "MCO:S170",
+        "code": "MCO:S170",
+        "city": "Grenoble",
+        "name": "Grenoble - Hôtel de Ville",
+        "visible": false,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.73714, 45.18731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "clusters",
+        "id": "MCO:S384",
+        "code": "MCO:S384",
+        "city": "Seyssinet-Pariset",
+        "name": "Seyssinet-Pariset - Hôtel de ville",
+        "visible": true,
+        "epci": "LaMetro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.69465, 45.18042]
+      }
+    }
+  ]
+}

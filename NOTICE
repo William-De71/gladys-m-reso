@@ -1,0 +1,17 @@
+Gladys M réso integration
+Copyright 2026 William Deren
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The departures, lines, stops, levels of service and traffic messages come from
+the open data of Mobilités M, the mobility service of the Grenoble area
+(SMMAG, Syndicat Mixte des Mobilités de l'Aire Grenobloise), published on
+https://data.mobilites-m.fr under the Open Database License (ODbL) 1.0:
+https://opendatacommons.org/licenses/odbl/1-0/. Source: Mobilités M (SMMAG).
+The widgets show the source (Mobilités M) and the time of each reading. The
+files under test/fixtures are extracts of these data, kept under the same
+licence.
+
+This community integration is not affiliated with, endorsed or sponsored by
+the SMMAG, M réso, the SEMITAG or any other operator of the networks of
+Mobilités M.

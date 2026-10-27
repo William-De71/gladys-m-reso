@@ -1,0 +1,1114 @@
+[
+  {
+    "pattern": {
+      "id": "SEM:A:1:972246520",
+      "desc": "L'Étoile",
+      "dir": 2,
+      "shortDesc": "PONT-DE-CLAIX L",
+      "lastStop": "SEM:3393",
+      "lastStopName": "Le Pont-de-Claix, L'Étoile"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76080,
+        "scheduledDeparture": 76080,
+        "realtimeArrival": 76110,
+        "realtimeDeparture": 76110,
+        "arrivalDelay": 30,
+        "departureDelay": 30,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521852",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:B:0:1766094611",
+      "desc": "Oxford",
+      "dir": 1,
+      "shortDesc": "GRENOBLE OXFORD",
+      "lastStop": "SEM:4021",
+      "lastStopName": "Grenoble, Oxford"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2213",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76200,
+        "scheduledDeparture": 76200,
+        "realtimeArrival": 76154,
+        "realtimeDeparture": 76154,
+        "arrivalDelay": -46,
+        "departureDelay": -46,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439401",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2213",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 77400,
+        "scheduledDeparture": 77400,
+        "realtimeArrival": 77422,
+        "realtimeDeparture": 77422,
+        "arrivalDelay": 22,
+        "departureDelay": 22,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439474",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2213",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 78600,
+        "scheduledDeparture": 78600,
+        "realtimeArrival": 78602,
+        "realtimeDeparture": 78602,
+        "arrivalDelay": 2,
+        "departureDelay": 2,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439359",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:B:1:234041489",
+      "desc": "Plaine des Sports",
+      "dir": 2,
+      "shortDesc": "GIERES PL. DES ",
+      "lastStop": "SEM:3059",
+      "lastStopName": "Gières, Plaine des Sports"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76140,
+        "scheduledDeparture": 76140,
+        "realtimeArrival": 76180,
+        "realtimeDeparture": 76180,
+        "arrivalDelay": 40,
+        "departureDelay": 40,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439360",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76980,
+        "scheduledDeparture": 76980,
+        "realtimeArrival": 76985,
+        "realtimeDeparture": 76985,
+        "arrivalDelay": 5,
+        "departureDelay": 5,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439461",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 78180,
+        "scheduledDeparture": 78180,
+        "realtimeArrival": 78189,
+        "realtimeDeparture": 78189,
+        "arrivalDelay": 9,
+        "departureDelay": 9,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439468",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:C1:0:-785657397",
+      "desc": "Cité Jean Macé",
+      "dir": 1,
+      "shortDesc": "CITE JEAN MACE",
+      "lastStop": "SEM:0948",
+      "lastStopName": "Grenoble, Cité Jean Macé"
+    },
+    "times": [
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76332,
+        "scheduledDeparture": 76332,
+        "realtimeArrival": 76306,
+        "realtimeDeparture": 76306,
+        "arrivalDelay": -26,
+        "departureDelay": -26,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32432899",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 77532,
+        "scheduledDeparture": 77532,
+        "realtimeArrival": 77675,
+        "realtimeDeparture": 77675,
+        "arrivalDelay": 143,
+        "departureDelay": 143,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32432912",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 79332,
+        "scheduledDeparture": 79332,
+        "realtimeArrival": 79315,
+        "realtimeDeparture": 79315,
+        "arrivalDelay": -17,
+        "departureDelay": -17,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32432913",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:D:1:-1692057542",
+      "desc": "Étienne Grappe",
+      "dir": 2,
+      "shortDesc": "ETIENNE GRAPPE",
+      "lastStop": "SEM:3107",
+      "lastStopName": "Saint-Martin-d'Hères, Étienne Grappe"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76440,
+        "scheduledDeparture": 76440,
+        "realtimeArrival": 76440,
+        "realtimeDeparture": 76440,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32305838",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 77640,
+        "scheduledDeparture": 77640,
+        "realtimeArrival": 77645,
+        "realtimeDeparture": 77645,
+        "arrivalDelay": 5,
+        "departureDelay": 5,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32305847",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 78840,
+        "scheduledDeparture": 78840,
+        "realtimeArrival": 78850,
+        "realtimeDeparture": 78850,
+        "arrivalDelay": 10,
+        "departureDelay": 10,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32305836",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:C8:0:7786991",
+      "desc": "Victor Hugo – Belgrade",
+      "dir": 1,
+      "shortDesc": "VICTOR HUGO BEL",
+      "lastStop": "SEM:2301",
+      "lastStopName": "Grenoble, Victor Hugo – Belgrade"
+    },
+    "times": [
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76560,
+        "scheduledDeparture": 76560,
+        "realtimeArrival": 76493,
+        "realtimeDeparture": 76493,
+        "arrivalDelay": -67,
+        "departureDelay": -67,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32504610",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 78360,
+        "scheduledDeparture": 78360,
+        "realtimeArrival": 78423,
+        "realtimeDeparture": 78423,
+        "arrivalDelay": 63,
+        "departureDelay": 63,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32504611",
+        "pickupType": "0"
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:A:1:-1624746078",
+      "desc": "Grand'place",
+      "dir": 2,
+      "shortDesc": "GRAND PLACE",
+      "lastStop": "SEM:2218",
+      "lastStopName": "Grenoble, Grand'place"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76680,
+        "scheduledDeparture": 76680,
+        "realtimeArrival": 76712,
+        "realtimeDeparture": 76712,
+        "arrivalDelay": 32,
+        "departureDelay": 32,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521826",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:D:0:1713488076",
+      "desc": "Gares",
+      "dir": 1,
+      "shortDesc": "GRENOBLE GARES",
+      "lastStop": "SEM:2214",
+      "lastStopName": "Grenoble, Gares"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2213",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76800,
+        "scheduledDeparture": 76800,
+        "realtimeArrival": 76909,
+        "realtimeDeparture": 76909,
+        "arrivalDelay": 109,
+        "departureDelay": 109,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32305846",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2213",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 78000,
+        "scheduledDeparture": 78000,
+        "realtimeArrival": 78015,
+        "realtimeDeparture": 78015,
+        "arrivalDelay": 15,
+        "departureDelay": 15,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32305835",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2213",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 79200,
+        "scheduledDeparture": 79200,
+        "realtimeArrival": 79223,
+        "realtimeDeparture": 79223,
+        "arrivalDelay": 23,
+        "departureDelay": 23,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32305816",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SE2:C11:1:-1412546595",
+      "desc": "Voiron Gare Routière Sud",
+      "dir": 2,
+      "shortDesc": "VOIRON GARE ROU",
+      "lastStop": "SE2:2407",
+      "lastStopName": "Voiron, Voiron Gare Routière Sud"
+    },
+    "times": [
+      {
+        "stopId": "SE2:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76560,
+        "scheduledDeparture": 76560,
+        "realtimeArrival": 77010,
+        "realtimeDeparture": 77010,
+        "arrivalDelay": 450,
+        "departureDelay": 450,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "pickupType": "0",
+        "serviceDay": 1793055600,
+        "tripId": "SE2:32395488",
+        "cancelled": false,
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:A:0:1907073374",
+      "desc": "La Poya",
+      "dir": 1,
+      "shortDesc": "FONTAINE LA POY",
+      "lastStop": "SEM:2215",
+      "lastStopName": "Fontaine, La Poya"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2213",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 76980,
+        "scheduledDeparture": 76980,
+        "realtimeArrival": 77043,
+        "realtimeDeparture": 77043,
+        "arrivalDelay": 63,
+        "departureDelay": 63,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521844",
+        "pickupType": "0",
+        "occupancy": "Modérée",
+        "occupancyId": 2
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:C3:0:-307009802",
+      "desc": "Centre du graphisme",
+      "dir": 1,
+      "shortDesc": "CENTRE DU GRAPH",
+      "lastStop": "SEM:4309",
+      "lastStopName": "Échirolles, Centre du graphisme"
+    },
+    "times": [
+      {
+        "stopId": "SEM:3996",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 77160,
+        "scheduledDeparture": 77160,
+        "realtimeArrival": 77161,
+        "realtimeDeparture": 77161,
+        "arrivalDelay": 1,
+        "departureDelay": 1,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32479809",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:3996",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 78960,
+        "scheduledDeparture": 78960,
+        "realtimeArrival": 78987,
+        "realtimeDeparture": 78987,
+        "arrivalDelay": 27,
+        "departureDelay": 27,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32479811",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:A:1:-1410639052",
+      "desc": "L'Étoile",
+      "dir": 2,
+      "shortDesc": "PONT-DE-CLAIX L",
+      "lastStop": "SEM:3393",
+      "lastStopName": "Le Pont-de-Claix, L'Étoile"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 77280,
+        "scheduledDeparture": 77280,
+        "realtimeArrival": 77288,
+        "realtimeDeparture": 77288,
+        "arrivalDelay": 8,
+        "departureDelay": 8,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521863",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:C1:1:-2140663181",
+      "desc": "Pré de l'Eau",
+      "dir": 2,
+      "shortDesc": "PRE DE L'EAU",
+      "lastStop": "SEM:4944",
+      "lastStopName": "Montbonnot-Saint-Martin, Pré de l'Eau"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 77327,
+        "scheduledDeparture": 77327,
+        "realtimeArrival": 77327,
+        "realtimeDeparture": 77327,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32432862",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 79127,
+        "scheduledDeparture": 79127,
+        "realtimeArrival": 79127,
+        "realtimeDeparture": 79127,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32432854",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:C8:1:2003020071",
+      "desc": "Université – Biologie",
+      "dir": 2,
+      "shortDesc": "UNIVERSITES-BIO",
+      "lastStop": "SEM:1037",
+      "lastStopName": "Gières, Université – Biologie"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 77460,
+        "scheduledDeparture": 77460,
+        "realtimeArrival": 77460,
+        "realtimeDeparture": 77460,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32504622",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 79260,
+        "scheduledDeparture": 79260,
+        "realtimeArrival": 79260,
+        "realtimeDeparture": 79260,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32504572",
+        "pickupType": "0"
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:C4:1:-1143216536",
+      "desc": "Le Verderet",
+      "dir": 2,
+      "shortDesc": "EYBENS-LE VERDE",
+      "lastStop": "SEM:1575",
+      "lastStopName": "Eybens, Le Verderet"
+    },
+    "times": [
+      {
+        "stopId": "SEM:4321",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 77340,
+        "scheduledDeparture": 77340,
+        "realtimeArrival": 77525,
+        "realtimeDeparture": 77525,
+        "arrivalDelay": 185,
+        "departureDelay": 185,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32479815",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:4321",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 79140,
+        "scheduledDeparture": 79140,
+        "realtimeArrival": 79140,
+        "realtimeDeparture": 79140,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32479813",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SE2:C11:0:-812596337",
+      "desc": "Longs Prés",
+      "dir": 1,
+      "shortDesc": "LONGS PRÉS",
+      "lastStop": "SE2:2399",
+      "lastStopName": "Lumbin, Longs Prés"
+    },
+    "times": [
+      {
+        "stopId": "SE2:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 77633,
+        "scheduledDeparture": 77633,
+        "realtimeArrival": 77623,
+        "realtimeDeparture": 77623,
+        "arrivalDelay": -10,
+        "departureDelay": -10,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "pickupType": "0",
+        "serviceDay": 1793055600,
+        "tripId": "SE2:32395490",
+        "cancelled": false,
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:A:1:-1554408538",
+      "desc": "Grand'place",
+      "shortDesc": "GRAND'PLACE",
+      "dir": 2,
+      "lastStop": "SEM:2218",
+      "lastStopName": "Grenoble, Grand'place"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 78480,
+        "scheduledDeparture": 78480,
+        "realtimeArrival": 78480,
+        "realtimeDeparture": 78480,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521858",
+        "pickupType": "0",
+        "occupancy": "Modérée",
+        "occupancyId": 2
+      },
+      {
+        "stopId": "SEM:2217",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 79680,
+        "scheduledDeparture": 79680,
+        "realtimeArrival": 79680,
+        "realtimeDeparture": 79680,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521820",
+        "pickupType": "0",
+        "occupancy": "Modérée",
+        "occupancyId": 2
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:NAVA:0:-409029315",
+      "desc": "La Poya",
+      "dir": 1,
+      "shortDesc": "FONTAINE LA POY",
+      "lastStop": "SEM:1612",
+      "lastStopName": "Fontaine, La Poya"
+    },
+    "times": [
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 78480,
+        "scheduledDeparture": 78480,
+        "realtimeArrival": 78480,
+        "realtimeDeparture": 78480,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522469",
+        "pickupType": "0"
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:NAVA:1:306831405",
+      "desc": "L'Étoile",
+      "shortDesc": "L'ETOILE",
+      "dir": 2,
+      "lastStop": "SEM:1210",
+      "lastStopName": "Le Pont-de-Claix, L'Étoile"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 81060,
+        "scheduledDeparture": 81060,
+        "realtimeArrival": 81060,
+        "realtimeDeparture": 81060,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522465",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 82260,
+        "scheduledDeparture": 82260,
+        "realtimeArrival": 82260,
+        "realtimeDeparture": 82260,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522473",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 83460,
+        "scheduledDeparture": 83460,
+        "realtimeArrival": 83460,
+        "realtimeDeparture": 83460,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522474",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 84660,
+        "scheduledDeparture": 84660,
+        "realtimeArrival": 84660,
+        "realtimeDeparture": 84660,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522475",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 85800,
+        "scheduledDeparture": 85800,
+        "realtimeArrival": 85800,
+        "realtimeDeparture": 85800,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522476",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 86940,
+        "scheduledDeparture": 86940,
+        "realtimeArrival": 86940,
+        "realtimeDeparture": 86940,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522477",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 88140,
+        "scheduledDeparture": 88140,
+        "realtimeArrival": 88140,
+        "realtimeDeparture": 88140,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522478",
+        "pickupType": "0"
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:NAVA:0:-1202847002",
+      "desc": "La Poya",
+      "shortDesc": "LA POYA",
+      "dir": 1,
+      "lastStop": "SEM:1612",
+      "lastStopName": "Fontaine, La Poya"
+    },
+    "times": [
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 83280,
+        "scheduledDeparture": 83280,
+        "realtimeArrival": 83280,
+        "realtimeDeparture": 83280,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522466",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 84480,
+        "scheduledDeparture": 84480,
+        "realtimeArrival": 84480,
+        "realtimeDeparture": 84480,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522479",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 85560,
+        "scheduledDeparture": 85560,
+        "realtimeArrival": 85560,
+        "realtimeDeparture": 85560,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522480",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 86760,
+        "scheduledDeparture": 86760,
+        "realtimeArrival": 86760,
+        "realtimeDeparture": 86760,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522481",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 87960,
+        "scheduledDeparture": 87960,
+        "realtimeArrival": 87960,
+        "realtimeDeparture": 87960,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522482",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:4962",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 89160,
+        "scheduledDeparture": 89160,
+        "realtimeArrival": 89160,
+        "realtimeDeparture": 89160,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522483",
+        "pickupType": "0"
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:NAVA:1:-1699559233",
+      "desc": "Grand'place",
+      "shortDesc": "GRAND'PLACE",
+      "dir": 2,
+      "lastStop": "SEM:1557",
+      "lastStopName": "Grenoble, Grand'place"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 89340,
+        "scheduledDeparture": 89340,
+        "realtimeArrival": 89340,
+        "realtimeDeparture": 89340,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522484",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 90540,
+        "scheduledDeparture": 90540,
+        "realtimeArrival": 90540,
+        "realtimeDeparture": 90540,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522485",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0907",
+        "stopName": "Grenoble, Victor Hugo",
+        "scheduledArrival": 91740,
+        "scheduledDeparture": 91740,
+        "realtimeArrival": 91740,
+        "realtimeDeparture": 91740,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522486",
+        "pickupType": "0"
+      }
+    ]
+  }
+]

@@ -1,0 +1,979 @@
+[
+  {
+    "pattern": {
+      "id": "SEM:A:0:1907073374",
+      "desc": "La Poya",
+      "dir": 1,
+      "shortDesc": "FONTAINE LA POY",
+      "lastStop": "SEM:2215",
+      "lastStopName": "Fontaine, La Poya"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2214",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 76200,
+        "scheduledDeparture": 76200,
+        "realtimeArrival": 76156,
+        "realtimeDeparture": 76156,
+        "arrivalDelay": -44,
+        "departureDelay": -44,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521810",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2214",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 77220,
+        "scheduledDeparture": 77220,
+        "realtimeArrival": 77283,
+        "realtimeDeparture": 77283,
+        "arrivalDelay": 63,
+        "departureDelay": 63,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521844",
+        "pickupType": "0",
+        "occupancy": "Modérée",
+        "occupancyId": 2
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:D:1:-1692057542",
+      "desc": "Étienne Grappe",
+      "dir": 2,
+      "shortDesc": "ETIENNE GRAPPE",
+      "lastStop": "SEM:3107",
+      "lastStopName": "Saint-Martin-d'Hères, Étienne Grappe"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2216",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 76200,
+        "scheduledDeparture": 76200,
+        "realtimeArrival": 76200,
+        "realtimeDeparture": 76200,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32305838",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2216",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 77400,
+        "scheduledDeparture": 77400,
+        "realtimeArrival": 77400,
+        "realtimeDeparture": 77400,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32305847",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2216",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 78600,
+        "scheduledDeparture": 78600,
+        "realtimeArrival": 78600,
+        "realtimeDeparture": 78600,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32305836",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:B:0:1766094611",
+      "desc": "Oxford",
+      "dir": 1,
+      "shortDesc": "GRENOBLE OXFORD",
+      "lastStop": "SEM:4021",
+      "lastStopName": "Grenoble, Oxford"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2214",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 76440,
+        "scheduledDeparture": 76440,
+        "realtimeArrival": 76412,
+        "realtimeDeparture": 76412,
+        "arrivalDelay": -28,
+        "departureDelay": -28,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439401",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2214",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 77640,
+        "scheduledDeparture": 77640,
+        "realtimeArrival": 77659,
+        "realtimeDeparture": 77659,
+        "arrivalDelay": 19,
+        "departureDelay": 19,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439474",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2214",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 78840,
+        "scheduledDeparture": 78840,
+        "realtimeArrival": 78821,
+        "realtimeDeparture": 78821,
+        "arrivalDelay": -19,
+        "departureDelay": -19,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439359",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:A:1:-1624746078",
+      "desc": "Grand'place",
+      "dir": 2,
+      "shortDesc": "GRAND PLACE",
+      "lastStop": "SEM:2218",
+      "lastStopName": "Grenoble, Grand'place"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2216",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 76440,
+        "scheduledDeparture": 76440,
+        "realtimeArrival": 76472,
+        "realtimeDeparture": 76472,
+        "arrivalDelay": 32,
+        "departureDelay": 32,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521826",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SE2:C13:0:-690031056",
+      "desc": "Gare Routière",
+      "dir": 1,
+      "shortDesc": "GARE ROUTIÈRE",
+      "lastStop": "SE2:4895",
+      "lastStopName": "Grenoble, Gare Routière"
+    },
+    "times": [
+      {
+        "stopId": "SE2:2352",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 76440,
+        "scheduledDeparture": 76440,
+        "realtimeArrival": 76480,
+        "realtimeDeparture": 76480,
+        "arrivalDelay": 40,
+        "departureDelay": 40,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "pickupType": "0",
+        "serviceDay": 1793055600,
+        "tripId": "SE2:32384027",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:C1:0:-785657397",
+      "desc": "Cité Jean Macé",
+      "dir": 1,
+      "shortDesc": "CITE JEAN MACE",
+      "lastStop": "SEM:0948",
+      "lastStopName": "Grenoble, Cité Jean Macé"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0892",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 76560,
+        "scheduledDeparture": 76560,
+        "realtimeArrival": 76533,
+        "realtimeDeparture": 76533,
+        "arrivalDelay": -27,
+        "departureDelay": -27,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32432899",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:0892",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 77760,
+        "scheduledDeparture": 77760,
+        "realtimeArrival": 77902,
+        "realtimeDeparture": 77902,
+        "arrivalDelay": 142,
+        "departureDelay": 142,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32432912",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:0892",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 79560,
+        "scheduledDeparture": 79560,
+        "realtimeArrival": 79565,
+        "realtimeDeparture": 79565,
+        "arrivalDelay": 5,
+        "departureDelay": 5,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32432913",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:B:1:234041489",
+      "desc": "Plaine des Sports",
+      "dir": 2,
+      "shortDesc": "GIERES PL. DES ",
+      "lastStop": "SEM:3059",
+      "lastStopName": "Gières, Plaine des Sports"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2216",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 76740,
+        "scheduledDeparture": 76740,
+        "realtimeArrival": 76741,
+        "realtimeDeparture": 76741,
+        "arrivalDelay": 1,
+        "departureDelay": 1,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439461",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2216",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 77940,
+        "scheduledDeparture": 77940,
+        "realtimeArrival": 77934,
+        "realtimeDeparture": 77934,
+        "arrivalDelay": -6,
+        "departureDelay": -6,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439468",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:2216",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 79140,
+        "scheduledDeparture": 79140,
+        "realtimeArrival": 79155,
+        "realtimeDeparture": 79155,
+        "arrivalDelay": 15,
+        "departureDelay": 15,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32439475",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:A:1:-1410639052",
+      "desc": "L'Étoile",
+      "dir": 2,
+      "shortDesc": "PONT-DE-CLAIX L",
+      "lastStop": "SEM:3393",
+      "lastStopName": "Le Pont-de-Claix, L'Étoile"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2216",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 77040,
+        "scheduledDeparture": 77040,
+        "realtimeArrival": 77030,
+        "realtimeDeparture": 77030,
+        "arrivalDelay": -10,
+        "departureDelay": -10,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521863",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SE2:C13:1:1512854888",
+      "desc": "Chantefeuille",
+      "shortDesc": "CHANTEFEUILLE",
+      "dir": 2,
+      "lastStop": "SE2:2403",
+      "lastStopName": "Vizille, Chantefeuille"
+    },
+    "times": [
+      {
+        "stopId": "SE2:2354",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 77100,
+        "scheduledDeparture": 77100,
+        "realtimeArrival": 77100,
+        "realtimeDeparture": 77100,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SE2:32384061",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:C14:1:1762533436",
+      "desc": "St-Georges-de-Commiers Gare",
+      "shortDesc": "ST-GEORGES-DE-C",
+      "dir": 2,
+      "lastStop": "SEM:4853",
+      "lastStopName": "Saint-Georges-de-Commiers, St-Georges-de-Commiers Gare"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 77100,
+        "scheduledDeparture": 77100,
+        "realtimeArrival": 77100,
+        "realtimeDeparture": 77100,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32396269",
+        "pickupType": "0"
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:C1:1:-2140663181",
+      "desc": "Pré de l'Eau",
+      "dir": 2,
+      "shortDesc": "PRE DE L'EAU",
+      "lastStop": "SEM:4944",
+      "lastStopName": "Montbonnot-Saint-Martin, Pré de l'Eau"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 77100,
+        "scheduledDeparture": 77100,
+        "realtimeArrival": 77100,
+        "realtimeDeparture": 77100,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32432862",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      },
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 78900,
+        "scheduledDeparture": 78900,
+        "realtimeArrival": 78900,
+        "realtimeDeparture": 78900,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32432854",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SE2:C11:1:-1412546595",
+      "desc": "Voiron Gare Routière Sud",
+      "dir": 2,
+      "shortDesc": "VOIRON GARE ROU",
+      "lastStop": "SE2:2407",
+      "lastStopName": "Voiron, Voiron Gare Routière Sud"
+    },
+    "times": [
+      {
+        "stopId": "SE2:2352",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 76800,
+        "scheduledDeparture": 76800,
+        "realtimeArrival": 77250,
+        "realtimeDeparture": 77250,
+        "arrivalDelay": 450,
+        "departureDelay": 450,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "pickupType": "0",
+        "serviceDay": 1793055600,
+        "tripId": "SE2:32395488",
+        "cancelled": false,
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SE2:C11:0:-812596337",
+      "desc": "Longs Prés",
+      "dir": 1,
+      "shortDesc": "LONGS PRÉS",
+      "lastStop": "SE2:2399",
+      "lastStopName": "Lumbin, Longs Prés"
+    },
+    "times": [
+      {
+        "stopId": "SE2:2354",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 77400,
+        "scheduledDeparture": 77400,
+        "realtimeArrival": 77390,
+        "realtimeDeparture": 77390,
+        "arrivalDelay": -10,
+        "departureDelay": -10,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "pickupType": "0",
+        "serviceDay": 1793055600,
+        "tripId": "SE2:32395490",
+        "cancelled": false,
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:A:1:-570847770",
+      "desc": "Grand'place",
+      "dir": 2,
+      "shortDesc": "GRAND PLACE",
+      "lastStop": "SEM:2218",
+      "lastStopName": "Grenoble, Grand'place"
+    },
+    "times": [
+      {
+        "stopId": "SEM:2216",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 78240,
+        "scheduledDeparture": 78240,
+        "realtimeArrival": 78240,
+        "realtimeDeparture": 78240,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32521858",
+        "pickupType": "0",
+        "occupancy": "Faible",
+        "occupancyId": 1
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SE2:C13:0:638853977",
+      "desc": "Voiron Gare Routière Sud",
+      "dir": 1,
+      "shortDesc": "VOIRON GARE ROU",
+      "lastStop": "SE2:9033",
+      "lastStopName": "Voiron, Voiron Gare Routière Sud"
+    },
+    "times": [
+      {
+        "stopId": "SE2:2352",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 78240,
+        "scheduledDeparture": 78240,
+        "realtimeArrival": 78300,
+        "realtimeDeparture": 78300,
+        "arrivalDelay": 60,
+        "departureDelay": 60,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "pickupType": "0",
+        "serviceDay": 1793055600,
+        "tripId": "SE2:32384028",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:NAVA:0:-409029315",
+      "desc": "La Poya",
+      "dir": 1,
+      "shortDesc": "FONTAINE LA POY",
+      "lastStop": "SEM:1612",
+      "lastStopName": "Fontaine, La Poya"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0892",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 78780,
+        "scheduledDeparture": 78780,
+        "realtimeArrival": 78780,
+        "realtimeDeparture": 78780,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522469",
+        "pickupType": "0"
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SE2:C13:1:1399720563",
+      "desc": "Chantefeuille",
+      "dir": 2,
+      "shortDesc": "CHANTEFEUILLE",
+      "lastStop": "SE2:2403",
+      "lastStopName": "Vizille, Chantefeuille"
+    },
+    "times": [
+      {
+        "stopId": "SE2:2354",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 78900,
+        "scheduledDeparture": 78900,
+        "realtimeArrival": 78990,
+        "realtimeDeparture": 78990,
+        "arrivalDelay": 90,
+        "departureDelay": 90,
+        "timepoint": true,
+        "realtime": true,
+        "realtimeState": "UPDATED",
+        "pickupType": "0",
+        "serviceDay": 1793055600,
+        "tripId": "SE2:32384067",
+        "cancelled": false
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:NAVA:1:306831405",
+      "desc": "L'Étoile",
+      "shortDesc": "L'ETOILE",
+      "dir": 2,
+      "lastStop": "SEM:1210",
+      "lastStopName": "Le Pont-de-Claix, L'Étoile"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 80820,
+        "scheduledDeparture": 80820,
+        "realtimeArrival": 80820,
+        "realtimeDeparture": 80820,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522465",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 82020,
+        "scheduledDeparture": 82020,
+        "realtimeArrival": 82020,
+        "realtimeDeparture": 82020,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522473",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 83220,
+        "scheduledDeparture": 83220,
+        "realtimeArrival": 83220,
+        "realtimeDeparture": 83220,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522474",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 84420,
+        "scheduledDeparture": 84420,
+        "realtimeArrival": 84420,
+        "realtimeDeparture": 84420,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522475",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 85560,
+        "scheduledDeparture": 85560,
+        "realtimeArrival": 85560,
+        "realtimeDeparture": 85560,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522476",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 86700,
+        "scheduledDeparture": 86700,
+        "realtimeArrival": 86700,
+        "realtimeDeparture": 86700,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522477",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 87900,
+        "scheduledDeparture": 87900,
+        "realtimeArrival": 87900,
+        "realtimeDeparture": 87900,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522478",
+        "pickupType": "0"
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:NAVA:0:-1202847002",
+      "desc": "La Poya",
+      "shortDesc": "LA POYA",
+      "dir": 1,
+      "lastStop": "SEM:1612",
+      "lastStopName": "Fontaine, La Poya"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0892",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 83580,
+        "scheduledDeparture": 83580,
+        "realtimeArrival": 83580,
+        "realtimeDeparture": 83580,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522466",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0892",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 84780,
+        "scheduledDeparture": 84780,
+        "realtimeArrival": 84780,
+        "realtimeDeparture": 84780,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522479",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0892",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 85860,
+        "scheduledDeparture": 85860,
+        "realtimeArrival": 85860,
+        "realtimeDeparture": 85860,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522480",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0892",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 87060,
+        "scheduledDeparture": 87060,
+        "realtimeArrival": 87060,
+        "realtimeDeparture": 87060,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522481",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0892",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 88260,
+        "scheduledDeparture": 88260,
+        "realtimeArrival": 88260,
+        "realtimeDeparture": 88260,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522482",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0892",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 89460,
+        "scheduledDeparture": 89460,
+        "realtimeArrival": 89460,
+        "realtimeDeparture": 89460,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522483",
+        "pickupType": "0"
+      }
+    ]
+  },
+  {
+    "pattern": {
+      "id": "SEM:NAVA:1:-1699559233",
+      "desc": "Grand'place",
+      "shortDesc": "GRAND'PLACE",
+      "dir": 2,
+      "lastStop": "SEM:1557",
+      "lastStopName": "Grenoble, Grand'place"
+    },
+    "times": [
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 89100,
+        "scheduledDeparture": 89100,
+        "realtimeArrival": 89100,
+        "realtimeDeparture": 89100,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522484",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 90300,
+        "scheduledDeparture": 90300,
+        "realtimeArrival": 90300,
+        "realtimeDeparture": 90300,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522485",
+        "pickupType": "0"
+      },
+      {
+        "stopId": "SEM:0893",
+        "stopName": "Grenoble, Gares",
+        "scheduledArrival": 91500,
+        "scheduledDeparture": 91500,
+        "realtimeArrival": 91500,
+        "realtimeDeparture": 91500,
+        "arrivalDelay": 0,
+        "departureDelay": 0,
+        "timepoint": true,
+        "realtime": false,
+        "realtimeState": "SCHEDULED",
+        "serviceDay": 1793055600,
+        "tripId": "SEM:32522486",
+        "pickupType": "0"
+      }
+    ]
+  }
+]

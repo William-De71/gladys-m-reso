@@ -1,0 +1,140 @@
+{
+  "SEM_A": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_B": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_C": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_D": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_E": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_NAVA": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_C1": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_C3": {
+    "nsv_id": 2,
+    "time": 1781229600000,
+    "stops": []
+  },
+  "SEM_C4": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_C5": {
+    "nsv_id": 2,
+    "time": 1784080800000,
+    "stops": [
+      {
+        "type": "stops",
+        "code": "SEM:0924"
+      },
+      {
+        "type": "stops",
+        "code": "SEM:0926"
+      }
+    ]
+  },
+  "SEM_C6": {
+    "nsv_id": 2,
+    "time": 1792375200000,
+    "stops": [
+      {
+        "type": "stops",
+        "code": "SEM:4317"
+      },
+      {
+        "type": "stops",
+        "code": "SEM:4319"
+      }
+    ]
+  },
+  "SEM_C8": {
+    "nsv_id": 2,
+    "time": 1789956000000,
+    "stops": []
+  },
+  "SE2_C11": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SE2_C13": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_C14": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_16": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SEM_17": {
+    "nsv_id": 2,
+    "time": 1793070000000,
+    "stops": [
+      {
+        "type": "stops",
+        "code": "SEM:0815"
+      }
+    ]
+  },
+  "SEM_18": {
+    "nsv_id": 2,
+    "time": 1793070000000,
+    "stops": [
+      {
+        "type": "stops",
+        "code": "SEM:0815"
+      }
+    ]
+  },
+  "C38_T83": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "SNC_C1": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  },
+  "TPV_514": {
+    "nsv_id": 2,
+    "time": 1788228000000,
+    "stops": []
+  },
+  "BUL_BUL": {
+    "nsv_id": 1,
+    "time": 1793131695295,
+    "stops": []
+  }
+}
